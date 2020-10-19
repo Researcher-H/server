@@ -57,7 +57,7 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 ### シリーズもの (日本語・英語、混濁)
 
 1. [(atmarkit) サーバサイドJavaScriptの本命「node.js」の基礎知識 (1/3)](https://www.atmarkit.co.jp/ait/articles/1102/28/news105.html)　【読んだ】★ 有益な情報はnode knockoutぐらい
-1. [(qiita) Node.jsとExpressでローカルサーバーを構築する(1) ―Node.jsとnpmの導入―](https://qiita.com/koedamon/items/37ea8e9175cf0fd62371)　【読んでる】
+1. [(qiita) Node.jsとExpressでローカルサーバーを構築する(1) ―Node.jsとnpmの導入―](https://qiita.com/koedamon/items/37ea8e9175cf0fd62371)　【読んだ】★★★★ Node x Express でローカルサーバを構築出来るようになった！　あと streaming やその他の色んな技術も情報も盛り沢山！
 1. [(qiita) サルでも分かるExpressでのjsonAPIサーバーの作り方](https://qiita.com/ngmr_mo/items/73cc7160d002a4989416)
 1. [(qiita) Node.js + Expressで超簡単API](https://qiita.com/k-penguin-sato/items/5d0db0116843396946bd)
 1. [(MDN) サーバサイド Web サイトプログラミング](https://developer.mozilla.org/ja/docs/Learn/Server-side)
