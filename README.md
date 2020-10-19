@@ -72,6 +72,20 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 1. [(PlayList #1-37) Node JS Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
 1. [(PlayList #1-12) Node.js & Express From Scratch](https://www.youtube.com/playlist?list=PLillGF-RfqbYRpji8t4SxUkMxfowG4Kqp)
 1. [(Programming with Mosh) How to build a REST API with Node js & Express](https://www.youtube.com/watch?v=pKd0Rpw7O48)
+1. [Twitter API in JavaScript - Twitter Monitoring Tutorial](https://www.youtube.com/watch?v=jpV1B2N4IxY)
+1. [15.4: Twitter API Basics - Twitter Bot Tutorial](https://www.youtube.com/watch?v=7-nX3YOC4OA)
+1. [How to use Twitter Streaming API with Node.js](https://www.youtube.com/watch?v=axobUeRpO3c)
+1. [Twitter API Data Collection - Download Twitter Data via Official API - Step-by-Step Tutorial](https://www.youtube.com/watch?v=Jl-_dDqSaUQ)
+1. [Twitter Bot - Monitor Tweets - Scrape Twitter feed without using any access keys [Javascript/NodeJS]](https://www.youtube.com/watch?v=y5Ecl_mMo7A)
+1. [(PlayList #15.1-9) 15: Twitter Bot Tutorial - Node.js and Processing](https://youtu.be/RF5_MPSNAtU)
+
+1. [(Programming with Mosh) How to build a REST API with Node js & Express](https://www.youtube.com/watch?v=pKd0Rpw7O48)
+1. [(Programming with Mosh) How to build a REST API with Node js & Express](https://www.youtube.com/watch?v=pKd0Rpw7O48)
+1. [(Programming with Mosh) How to build a REST API with Node js & Express](https://www.youtube.com/watch?v=pKd0Rpw7O48)
+1. [(Programming with Mosh) How to build a REST API with Node js & Express](https://www.youtube.com/watch?v=pKd0Rpw7O48)
+1. [(Programming with Mosh) How to build a REST API with Node js & Express](https://www.youtube.com/watch?v=pKd0Rpw7O48)
+1. [(Programming with Mosh) How to build a REST API with Node js & Express](https://www.youtube.com/watch?v=pKd0Rpw7O48)
+
 
 ---
 <a id="anchor3"></a>
