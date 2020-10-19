@@ -1,4 +1,4 @@
-# Sever (Node.js / Express.js)
+# Server (Node.js / Express.js)
 
 JavaScriptのサーバー操作を学びます(下図の①②+(DB③)の操作)
 
