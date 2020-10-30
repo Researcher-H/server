@@ -214,7 +214,12 @@ https://github.com/typicode/json-server
 
 hosting???
 
+parserって何？
 
+https://developer.mozilla.org/ja/docs/Glossary/Parse
+
+parse はランタイムへ行く前の内側の事前の作業、それによってランタイムが行えるようになる
+例えばブラウザのparseはDOMツリーを作る事
 
 ---
 <a id="anchor6"></a>
